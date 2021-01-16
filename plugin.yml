@@ -1,5 +1,7 @@
-name: ElytraAutoEquipper
 main: net.ddns.maikeio.elytra_auto_equipper.ElytraAutoEquipper
-version: 1.2
+name: ElytraAutoEquipper
+version: 1.0
+description: Plugin for switching chestplate and elytra automatically
 api-version: 1.16
-commands:
+author: Maikeio
+website: www.maikeio.ddns.net
