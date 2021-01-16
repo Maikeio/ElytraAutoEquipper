@@ -1,7 +1,7 @@
 # ElytraAutoEquipper
 A Minecraft spigot server plugin that simply makes your life a little easier.
 
-If you want to try it out, just download the jar here(https://github.com/Maikeio/ElytraAutoEquipper/releases) and add it to your plugin folder.
+If you want to try it out, just download the jar [here](https://github.com/Maikeio/ElytraAutoEquipper/releases) and add it to your plugin folder.
 
 I think most Minecraft players know this problem: 
 Yes, finally I got my Elytra, but oh
